@@ -1,5 +1,5 @@
 ## Hola , soy Ricardo Nery Dosko 👋
-
+![Uploading image.png…]()
 <!--
 **RicardoDosko/RicardoDosko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
