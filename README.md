@@ -8,7 +8,10 @@ Además, mi formación en comunicación multimedial me ha brindado herramientas 
         <img width="100px" height="auto" src="./assets/logoLinkedIn.png" >
     </a>
  <p>📫También puedes escribirme 💬 o llamarme desde WhatsApp:</p>
-[![WhatsApp](./assets/whatsapp.png)](https://wa.me/+543425501646)
+ <a href="https://wa.me/+543415501646" target="_blank">
+        <img width="25px" height="auto" src="./assets/whatsapp.png" >
+    </a>
+
 
 
 
